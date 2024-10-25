@@ -1,0 +1,7 @@
+#ifndef _WAVESHARE_ESP32S3_USB_H
+#define _WAVESHARE_ESP32S3_USB_H
+
+#define PIN_BUTTON_1 0
+#define T_DISPLAY
+
+#endif
